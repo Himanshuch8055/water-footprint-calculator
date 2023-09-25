@@ -226,7 +226,7 @@ function showEnvironmentAverageText(){
   }
 
   document.getElementById("environ-average-description").innerHTML =
-  annualCF + "kg of Carbon is " + national_metric + " the US national per capita average of 1750kg carbon emissions every year<sup>2</sup> "
+  annualCF + "kg of Carbon is " + national_metric + " the IN national per capita average of 1750kg carbon emissions every year<sup>2</sup> "
   + needed_metric + " the 680kg maximum upper limit of a sustainable diet necesary to prevent climate catastrophe.<sup>3</sup>"
 }
 
